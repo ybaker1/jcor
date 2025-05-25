@@ -138,6 +138,7 @@ Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether yo
 📞 (215) 725-2030
 ---
 
+---
 ## 🎓 Schools {#schools}
 
 Our community is home to or within close reach of the following Jewish schools:
@@ -152,7 +153,7 @@ Reach out to each institution for enrollment and visitation details.
 
 ## 🥬 Kosher Info {#kosher-info}
 
-Philadelphia is served by the **Community Kashrus of Greater Philadelphia (Keystone-K)**. Most kosher establishments, caterers, and products in the area operate under this supervision.
+Philadelphia is served by the **Community Kashrus of Greater Philadelphia (Keystone-K)**. Most kosher establishments and caterers in the area operate under this supervision.
 
 Visit: [https://keystone-k.org](https://keystone-k.org)
 
