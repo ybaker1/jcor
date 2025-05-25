@@ -29,40 +29,57 @@ JCOR (The Jewish Community of Rhawnhurst) fosters connection, community, and spi
 
 ## 📧 Email Group {#email-group}
 
-**Join the JCOR Email Group**  
-<https://groups.io/g/JCOR-NE-Philadelphia>
+Stay informed with the JCOR Email Group — a moderated announcements list serving the Jewish Community of Northeast Philadelphia: [https://groups.io/g/JCOR-NE-Philadelphia](https://groups.io/g/JCOR-NE-Philadelphia). Founded to promote *achdus* and foster growth in Rhawnhurst, the group shares local shiurim, events, job and housing opportunities, and community updates. All posts are screened to ensure they are relevant, local, and free of spam or off-topic content—just the essential info you need.
 
-This moderated list is your go-to source for community news, shiurim, and important announcements.
+👉 **Join here**: [https://groups.io/g/JCOR-NE-Philadelphia](https://groups.io/g/JCOR-NE-Philadelphia)
 
 ---
 
 ## 🕍 Shuls Directory {#shuls-directory}
 
-Here are local Sephardic and Edut Mizrach congregations in the Rhawnhurst area:
+### Ahavas Torah
+- 📍 [1425 Rhawn St, Philadelphia, PA 19111](https://maps.google.com/?q=1425+Rhawn+St,+Philadelphia,+PA+19111)
+- 🌐 [ahavas-torah.org](https://ahavas-torah.org)
+- 👤 Rabbi Mordecai Terebelo  
+- 🕍 Nusach: Sephard
 
-- **Ahavas Torah** – 1425 Rhawn St  
-  [ahavas-torah.org](http://ahavas-torah.org)  
-  Rabbi Mordecai Terebelo  
-  *Nusach: Sephard*
+---
 
-- **Beth David: Mesilat Yesharim** – Summerdale Avenue  
-  *Nusach: Edut Mizrach*
+### Beth David: Mesilat Yesharim
+- 📍 [Summerdale Avenue, Philadelphia, PA](https://maps.google.com/?q=Summerdale+Avenue,+Philadelphia,+PA)
+- 🕍 Nusach: Edut Mizrach (Sephardi traditions)
 
-- **Beth Midrash HaRav / B’nai Jacob** – 7926 Algon Ave  
-  [bmhbj.org](http://bmhbj.org)  
-  Rabbi Isaac Leizerowski  
-  *Nusach: Sephard*
+---
 
-- **B’nai Israel – Ohev Zedek** – 8201 Castor Ave  
-  [biozshul.org](http://biozshul.org)  
-  Rabbi Aryeh Federgrun  
-  *Nusach: Sephard*
+### Beth Midrash HaRav / B’nai Jacob
+- 📍 [7926 Algon Ave, Philadelphia, PA 19111](https://maps.google.com/?q=7926+Algon+Ave,+Philadelphia,+PA+19111)
+- 🌐 [bmhbj.org](http://www.bmhbj.org/)
+- 👤 Rabbi Isaac Leizerowski  
+- 🕍 Nusach: Sephard
 
-- **Dibrot Eliyahu** – 2018 Solly Ave  
-  Email: DibrotEliyahu@gmail.com  
-  Rabbi Elchanan Abergel  
-  *Nusach: Edut Mizrach*
+---
 
+### B’nai Israel – Ohev Zedek
+- 📍 [8201 Castor Ave, Philadelphia, PA 19152](https://maps.google.com/?q=8201+Castor+Ave,+Philadelphia,+PA+19152)
+- 🌐 [biozshul.org](https://biozshul.org)
+- 👤 Rabbi Aryeh Federgrun  
+- 🕍 Nusach: Sephard
+
+---
+
+### Dibrot Eliyahu
+- 📍 [2018 Solly Ave, Philadelphia, PA 19152](https://maps.google.com/?q=2018+Solly+Ave,+Philadelphia,+PA+19152)
+- ✉️ [DibrotEliyahu@gmail.com](mailto:DibrotEliyahu@gmail.com)
+- 👤 Rabbi Elchanan Abergel  
+- 🕍 Nusach: Edut Mizrach (Sephardi traditions)
+
+---
+
+### Philadelphia Lubavitcher Center
+- 📍 [7622 Castor Ave, Philadelphia, PA 19152](https://maps.google.com/?q=7622+Castor+Ave,+Philadelphia,+PA+19152)
+- 🌐 [chabadpa.org/centers](https://www.chabadpa.org/centers)
+- 👤 Rabbi Avrohom Shemtov  
+- 🕍 Nusach: Ari
 ---
 
 ## 🧯 Eruv Info {#eruv-info}
@@ -74,7 +91,16 @@ JCOR supports the Rhawnhurst eruv. Please check with local rabbinic authorities 
 ## 🎥 JCOR Video {#jcor-video}
 
 Watch our introductory video about JCOR and Jewish life in Rhawnhurst:  
-[Insert YouTube or Vimeo link here]
+[JCOR Video](https://vimeo.com/210610668)
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://player.vimeo.com/video/210610668" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" 
+          allow="autoplay; fullscreen; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
