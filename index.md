@@ -18,7 +18,12 @@ We are a vibrant Orthodox Jewish community in Northeast Philadelphia. Explore th
 - [Eruv Info](#eruv-info)
 - [JCOR Video](#jcor-video)
 - [Local Businesses](#local-businesses)
-
+- [Kolell](#kolell)
+- [Mikvaot](#mikvaot)
+- [Schools](#schools)
+- [Kosher Info](#kosher-info)
+- [Dining](#dining)
+- [Food Shopping](#food-shopping)
 ---
 
 ## 🏠 Welcome
@@ -105,7 +110,60 @@ Watch our introductory video about JCOR and Jewish life in Rhawnhurst:
 
 ---
 
-## 🛍️ Local Businesses {#local-businesses}
+---
 
-Support our local economy!  
-We’re building a list of Jewish-owned businesses that serve Rhawnhurst and surrounding areas. Submit suggestions to the JCOR leadership.
+## 📖 Kolell {#kolell}
+
+Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether you're looking for morning or evening learning, or shiurim for men and women, contact us to learn more or visit our shuls for schedules.
+
+---
+
+## 🚿 Mikvaot {#mikvaot}
+
+Mikvaot serving Rhawnhurst include:
+- **Mikveh Israel** – [7622 Castor Ave](https://maps.google.com/?q=7622+Castor+Ave,+Philadelphia,+PA+19152)
+- **Young Israel Mikveh** – Please inquire locally for current access hours.
+
+---
+
+## 🎓 Schools {#schools}
+
+Our community is home to or within close reach of the following Jewish schools:
+- **Politz Hebrew Academy**
+- **Kosloff Torah Academy (KTA)**
+- **Mesivta Yesodei Yisroel**
+- **Caskey Torah Academy** *(nearby)*
+
+Reach out to each institution for enrollment and visitation details.
+
+---
+
+## 🥬 Kosher Info {#kosher-info}
+
+Philadelphia is served by the **Community Kashrus of Greater Philadelphia (Keystone-K)**. Most kosher establishments, caterers, and products in the area operate under this supervision.
+
+Visit: [https://keystone-k.org](https://keystone-k.org)
+
+---
+
+## 🍽️ Dining {#dining}
+
+Popular kosher dining spots accessible to Rhawnhurst residents include:
+- **Holy Schnitzel**
+- **Mama's Vegetarian** *(Center City)*
+- **Espresso Cafe**
+- **House of Kosher Deli Counter**
+
+Always verify hashgacha before visiting.
+
+---
+
+## 🛒 Food Shopping {#food-shopping}
+
+Common kosher-friendly grocery options in or near Rhawnhurst:
+- **House of Kosher**
+- **NetCost Market** – Broad kosher section
+- **ShopRite** – Various locations with kosher aisles
+- **Trader Joe’s** *(Huntingdon Valley)*
+
+For bulk and specialty orders, contact local co-ops or visit local Israeli and Middle Eastern groceries.

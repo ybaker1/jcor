@@ -20,12 +20,20 @@ author: JCOR Team
 ###############################################
 
 navbar-links:
-  Welcome: "#welcome"
-  Email Group: "#email-group"
-  Shuls Directory: "#shuls-directory"
-  Eruv Info: "#eruv-info"
-  JCOR Video: "#jcor-video"
-  Local Businesses: "#local-businesses"
+  Welcome: "index#welcome"
+  Email Group: "index#email-group"
+  Shuls Directory: "index#shuls-directory"
+  Eruv Info: "index#eruv-info"
+  JCOR Video: "index#jcor-video"
+  Community Resources:
+    - Local Businesses: "index#local-businesses"
+    - Kolell: "index#kolell"
+    - Mikvaot: "index#mikvaot"
+    - Schools: "index#schools"
+  Kosher Living:
+    - Kosher Info: "index#kosher-info"
+    - Dining: "index#dining"
+    - Food Shopping: "index#food-shopping"
 ################
 # --- Logo --- #
 ################
