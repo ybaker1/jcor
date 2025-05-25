@@ -24,6 +24,7 @@ We are a vibrant Orthodox Jewish community in Northeast Philadelphia. Explore th
 - [Kosher Info](#kosher-info)
 - [Dining](#dining)
 - [Food Shopping](#food-shopping)
+
 ---
 
 ## 🏠 Welcome
