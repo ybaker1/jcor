@@ -17,8 +17,8 @@ We are a vibrant Orthodox Jewish community in Northeast Philadelphia. Explore th
 - [Shuls Directory](#shuls-directory)
 - [Eruv Info](#eruv-info)
 - [JCOR Video](#jcor-video)
-- [Local Businesses](#local-businesses)
 - [Kolell](#kolell)
+- [Chesed Resources](#chesed-resources)
 - [Mikvaot](#mikvaot)
 - [Schools](#schools)
 - [Kosher Info](#kosher-info)
@@ -111,68 +111,58 @@ Watch our introductory video about JCOR and Jewish life in Rhawnhurst:
 
 ---
 
----
-
 ## 📖 Kolell {#kolell}
 
 Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether you're looking for morning or evening learning, or shiurim for men and women, contact us to learn more or visit our shuls for schedules.
 
 ---
----
 
-## Chesed Resources {#chesed}
+## 🤝 Chesed Resources {#chesed-resources}
 
 Support or volunteer opportunities within our community:
 
-### 🚑 Philadelphia Hatzolah
-Emergency medical response by trained volunteers.  
+### 🚑 Philadelphia Hatzolah  
 📞 215-677-6700  
 🌐 [https://www.philadelphiahatzolah.org/](https://www.philadelphiahatzolah.org/)
 
 ---
 
-### 🥘 Chesed Philly (Tomchei Shabbos)
-Our local branch of Tomchei Shabbos provides weekly food packages to those in need.  
+### 🥘 Chesed Philly (Tomchei Shabbos)  
 **Volunteers always welcome.**  
 🌐 [https://www.chesedphilly.org/](https://www.chesedphilly.org/)
 
 ---
 
-### 🔧 Chaverim
-Community-based assistance for non-medical emergencies (e.g., flat tire, lockout).  
+### 🔧 Chaverim  
 📞 855-742-4876  
 🌐 [https://philadelphiachaveirim.org/](https://philadelphiachaveirim.org/)
 
 ---
 
-### 🏥 Bikur Cholim of Philadelphia
-Hospital and home visitation, patient support, and hospitality coordination.  
+### 🏥 Bikur Cholim of Philadelphia  
 📞 215-805-8668  
 🌐 [https://bikkurcholimphilly.org/](https://bikkurcholimphilly.org/)
 
 ---
----
 
 ## 🚿 Mikvaot {#mikvaot}
 
-### The Abraham Offen Mikvah of Northeast Philadelphia
-
+### The Abraham Offen Mikvah of Northeast Philadelphia  
 📞 (215) 745-3334 — follow the prompts to make an appointment  
 📍 7525 Loretto Avenue, Philadelphia, PA 19111  
 🌐 [https://www.northeastmikvah.org](https://www.northeastmikvah.org)
 
-- Features a **keilim mikvah** (daytime use only)
+- Features a **keilim mikvah** (daytime use only)  
 - **Men's access** available on **Erev Yomtov** (see JCOR email group for announcements)
 
 ---
 
-### Men's Mikvah – Philadelphia Lubavitcher Center
-
+### Men's Mikvah – Philadelphia Lubavitcher Center  
 📍 7622 Castor Avenue, Philadelphia, PA 19111  
 📞 (215) 725-2030
----
 
 ---
+
 ## 🎓 Schools {#schools}
 
 Our community is home to or within close reach of the following Jewish schools:
@@ -180,8 +170,6 @@ Our community is home to or within close reach of the following Jewish schools:
 - **Kosloff Torah Academy (KTA)**
 - **Mesivta Yesodei Yisroel**
 - **Caskey Torah Academy** *(nearby)*
-
-Reach out to each institution for enrollment and visitation details.
 
 ---
 
@@ -196,7 +184,7 @@ Visit: [https://keystone-k.org](https://keystone-k.org)
 ## 🍽️ Dining {#dining}
 
 Local eateries immediately in or adjacent to our community. Many more are close by in the region.  
-For a wider list of kosher establishments, visit [Keystone-K Kosher Directory](https://keystone-k.org/establishments/).
+For a wider list of kosher establishments, visit [Keystone-K Kosher Directory](https://keystone-k.org/establishments/).  
 Always verify hashgacha before visiting any establishment.
 
 ---
@@ -221,7 +209,6 @@ Always verify hashgacha before visiting any establishment.
 *Seasonal treats*  
 📍 [1709 Grant Ave, Philadelphia, PA 19111](https://www.google.com/maps?q=1709+Grant+Ave,+Philadelphia,+PA+19111)  
 📞 215-673-9490 
-
 
 ---
 
