@@ -297,20 +297,21 @@ Always verify hashgacha before visiting any establishment.
 
 Members of our community shop for food at the following locations:
 
-### House of Kosher
-[houseofkosher.com](https://houseofkosher.com)  
-9806 Bustleton Ave, Philadelphia, PA 19115  
-(215) 677-8100  
-Entire store under Keystone K supervision. Full-service grocery store featuring takeout, sushi, pizza, and catering.
+Members of our community shop for food at the following locations:
 
-### ShopRite of Roosevelt Boulevard
-[shoprite.com](https://www.shoprite.com)  
-11000 Roosevelt Blvd, Philadelphia, PA 19116  
-(215) 673-1200  
+### [House of Kosher](https://www.google.com/maps?q=9806+Bustleton+Ave,+Philadelphia,+PA+19115)
+**[houseofkosher.com](https://houseofkosher.com)**  
+**9806 Bustleton Ave, Philadelphia, PA 19115**  
+📞 (215) 677-8100  
+Entire store under Keystone K supervision. Full-service grocery store featuring takeout, sushi, pizza, and catering options.
+
+### [ShopRite of Roosevelt Boulevard](https://www.google.com/maps?q=11000+Roosevelt+Blvd,+Philadelphia,+PA+19116)
+**[shoprite.com](https://www.shoprite.com)**  
+**11000 Roosevelt Blvd, Philadelphia, PA 19116**  
+📞 (215) 673-1200  
 Offers a kosher section and deli counter under Keystone K. Fresh kosher bakery items also available.
 
-### GIANT of Huntingdon Valley
-737 Huntingdon Pike, Huntingdon Valley, PA 19006  
-(215) 379-6900  
+### [GIANT of Huntingdon Valley](https://www.google.com/maps?q=737+Huntingdon+Pike,+Huntingdon+Valley,+PA+19006)
+**737 Huntingdon Pike, Huntingdon Valley, PA 19006**  
+📞 (215) 379-6900  
 Kosher section and deli counter under Keystone K. Fresh bakery goods available.
-For bulk and specialty orders, contact local co-ops or visit local Israeli and Middle Eastern groceries.
