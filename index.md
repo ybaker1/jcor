@@ -113,7 +113,14 @@ Watch our introductory video about JCOR and Jewish life in Rhawnhurst:
 
 ## 📖 Kolell {#kolell}
 
-Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether you're looking for morning or evening learning, or shiurim for men and women, contact us to learn more or visit our shuls for schedules.
+
+The Northeast Community Kollel plays a vital role in our spiritual life, offering accessible Torah learning opportunities to community members of all backgrounds. Many benefit from shiurim on Inyanei DeYoma and chavrusa learning with the Rosh Kollel and Kollel Avreichim.
+
+We are proud to have Rav Yonah Burr — a renowned educator and scholar — as our Rosh Kollel, guiding this makom Torah.
+
+📍 2018 Solly Ave, Philadelphia, PA 19152  
+✉️ [info@northeastkollel.org](mailto:info@northeastkollel.org)  
+🌐 [https://www.northeastkollel.org/](https://www.northeastkollel.org/)
 
 ---
 
@@ -214,10 +221,22 @@ Always verify hashgacha before visiting any establishment.
 
 ## 🛒 Food Shopping {#food-shopping}
 
-Common kosher-friendly grocery options in or near Rhawnhurst:
-- **House of Kosher**
-- **NetCost Market** – Broad kosher section
-- **ShopRite** – Various locations with kosher aisles
-- **Trader Joe’s** *(Huntingdon Valley)*
+Members of our community shop for food at the following locations:
 
+### House of Kosher
+[houseofkosher.com](https://houseofkosher.com)  
+9806 Bustleton Ave, Philadelphia, PA 19115  
+(215) 677-8100  
+Entire store under Keystone K supervision. Full-service grocery store featuring takeout, sushi, pizza, and catering.
+
+### ShopRite of Roosevelt Boulevard
+[shoprite.com](https://www.shoprite.com)  
+11000 Roosevelt Blvd, Philadelphia, PA 19116  
+(215) 673-1200  
+Offers a kosher section and deli counter under Keystone K. Fresh kosher bakery items also available.
+
+### GIANT of Huntingdon Valley
+737 Huntingdon Pike, Huntingdon Valley, PA 19006  
+(215) 379-6900  
+Kosher section and deli counter under Keystone K. Fresh bakery goods available.
 For bulk and specialty orders, contact local co-ops or visit local Israeli and Middle Eastern groceries.
