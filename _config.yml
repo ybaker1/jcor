@@ -20,12 +20,12 @@ author: JCOR Team
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Blank: "blank"
-
+  Welcome: "#welcome"
+  Email Group: "#email-group"
+  Shuls Directory: "#shuls-directory"
+  Eruv Info: "#eruv-info"
+  JCOR Video: "#jcor-video"
+  Local Businesses: "#local-businesses"
 ################
 # --- Logo --- #
 ################
