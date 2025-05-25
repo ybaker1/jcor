@@ -80,6 +80,7 @@ Stay informed with the JCOR Email Group — a moderated announcements list servi
 - 🌐 [chabadpa.org/centers](https://www.chabadpa.org/centers)
 - 👤 Rabbi Avrohom Shemtov  
 - 🕍 Nusach: Ari
+
 ---
 
 ## 🧯 Eruv Info {#eruv-info}
