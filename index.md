@@ -118,6 +118,40 @@ Watch our introductory video about JCOR and Jewish life in Rhawnhurst:
 Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether you're looking for morning or evening learning, or shiurim for men and women, contact us to learn more or visit our shuls for schedules.
 
 ---
+---
+
+## Chesed Resources {#chesed}
+
+Support or volunteer opportunities within our community:
+
+### 🚑 Philadelphia Hatzolah
+Emergency medical response by trained volunteers.  
+📞 215-677-6700  
+🌐 [https://www.philadelphiahatzolah.org/](https://www.philadelphiahatzolah.org/)
+
+---
+
+### 🥘 Chesed Philly (Tomchei Shabbos)
+Our local branch of Tomchei Shabbos provides weekly food packages to those in need.  
+**Volunteers always welcome.**  
+🌐 [https://www.chesedphilly.org/](https://www.chesedphilly.org/)
+
+---
+
+### 🔧 Chaverim
+Community-based assistance for non-medical emergencies (e.g., flat tire, lockout).  
+📞 855-742-4876  
+🌐 [https://philadelphiachaveirim.org/](https://philadelphiachaveirim.org/)
+
+---
+
+### 🏥 Bikur Cholim of Philadelphia
+Hospital and home visitation, patient support, and hospitality coordination.  
+📞 215-805-8668  
+🌐 [https://bikkurcholimphilly.org/](https://bikkurcholimphilly.org/)
+
+---
+---
 
 ## 🚿 Mikvaot {#mikvaot}
 
