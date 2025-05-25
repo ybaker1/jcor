@@ -172,11 +172,85 @@ Support or volunteer opportunities within our community:
 
 ## 🎓 Schools {#schools}
 
-Our community is home to or within close reach of the following Jewish schools:
-- **Politz Hebrew Academy**
-- **Kosloff Torah Academy (KTA)**
-- **Mesivta Yesodei Yisroel**
-- **Caskey Torah Academy** *(nearby)*
+### 🧒 Pre-School
+
+**Congregation Beth Solomon**  
+198 Tomlinson Road  
+📞 215-938-1278  
+🌐 [www.cbscommunitycenter.com](http://www.cbscommunitycenter.com)
+
+**FELS / Gutman Early Learning Center**  
+7500 West Avenue, Elkins Park, PA  
+📞 215-635-5570  
+🌐 [felskids.org/center/gutman](https://felskids.org/center/gutman)
+
+**FELS / Paley Early Learning Center**  
+2199 Strahle Street  
+📞 215-725-8930  
+🌐 [felskids.org/center/paley](https://felskids.org/center/paley)
+
+**The Gan**  
+7620 Castor Avenue  
+📞 215-695-0399
+
+*Other private local options are also available.*
+
+---
+
+### 🏫 Elementary Schools
+
+**Abrams Hebrew Academy**  
+31 West College Avenue, Yardley, PA  
+📞 215-493-1800  
+🌐 [abramsonline.org](https://abramsonline.org)
+
+**Caskey Torah Academy**  
+742 Argyle Road, Wynnewood, PA  
+📞 610-642-7870  
+🌐 [taphila.org](https://www.taphila.org)
+
+**Kohelet Yeshiva Lab & Middle School**  
+223 North Highland Avenue, Merion Station, PA  
+📞 610-667-2020  
+🌐 [koheletyeshiva.org](https://www.koheletyeshiva.org)
+
+**Politz Day School of Cherry Hill**  
+720 Cooper Landing Road, Cherry Hill, NJ  
+📞 856-667-1013  
+🌐 [politz.org](https://www.politz.org)
+
+**Politz Yeshiva & Bais Yaakov**  
+9225 Old Bustleton Avenue  
+📞 215-939-5960  
+🌐 [politzyby.org](https://www.politzyby.org)
+
+---
+
+### 🎓 Yeshiva & High Schools
+
+**Foxman Torah Institute**  
+31 Maple Avenue, Cherry Hill, NJ  
+📞 856-482-8230  
+🌐 [ftiyeshiva.org](https://www.ftiyeshiva.org)
+
+**Kosloff Torah Academy Girls’ High School**  
+50 Montgomery Avenue, Bala Cynwyd, PA  
+📞 610-660-5010  
+🌐 [ktahs.org](https://www.ktahs.org)
+
+**Kohelet Yeshiva High School**  
+223 North Highland Avenue, Merion Station, PA  
+📞 610-667-2020  
+🌐 [koheletyeshiva.org](https://www.koheletyeshiva.org)
+
+**Mesivta High School of Greater Philadelphia**  
+314 Levering Mill Road, Bala Cynwyd, PA  
+📞 610-617-9200  
+🌐 [themesivta.org](https://www.themesivta.org)
+
+**Talmudical Yeshiva of Philadelphia**  
+6063 Drexel Road  
+📞 215-477-1000
 
 ---
 
