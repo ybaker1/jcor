@@ -52,7 +52,7 @@ Stay informed with the JCOR Email Group — a moderated announcements list servi
 ---
 
 ### Beth David: Mesilat Yesharim
-- 📍 [Summerdale Avenue, Philadelphia, PA](https://maps.google.com/?q=Summerdale+Avenue,+Philadelphia,+PA)
+- 📍 [8014 Summerdale Avenue, Philadelphia, PA](https://maps.google.com/?q=8014+Summerdale+Avenue,+Philadelphia,+PA)
 - 🕍 Nusach: Edut Mizrach (Sephardi traditions)
 
 ---
