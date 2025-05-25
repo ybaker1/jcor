@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "JCOR Email Group"
+subtitle: "Stay connected with community updates"
+author: JCOR Team
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [jcor, email]
+comments: false
+mathjax: false
 ---
 
 **Join the JCOR Email Group**  

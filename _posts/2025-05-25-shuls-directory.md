@@ -1,6 +1,13 @@
 ---
 layout: post
 title: "Shuls in Northeast Philadelphia"
+subtitle: "Directory of local Sephardic and Edut Mizrach congregations"
+author: JCOR Team
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [jcor, shuls]
+comments: false
+mathjax: false
 ---
 
 Here is a directory of Sephardic and Edut Mizrach synagogues in Northeast Philadelphia:
