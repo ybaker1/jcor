@@ -121,10 +121,21 @@ Rhawnhurst hosts Torah learning opportunities through local kollelim. Whether yo
 
 ## 🚿 Mikvaot {#mikvaot}
 
-Mikvaot serving Rhawnhurst include:
-- **Mikveh Israel** – [7622 Castor Ave](https://maps.google.com/?q=7622+Castor+Ave,+Philadelphia,+PA+19152)
-- **Young Israel Mikveh** – Please inquire locally for current access hours.
+### The Abraham Offen Mikvah of Northeast Philadelphia
 
+📞 (215) 745-3334 — follow the prompts to make an appointment  
+📍 7525 Loretto Avenue, Philadelphia, PA 19111  
+🌐 [https://www.northeastmikvah.org](https://www.northeastmikvah.org)
+
+- Features a **keilim mikvah** (daytime use only)
+- **Men's access** available on **Erev Yomtov** (see JCOR email group for announcements)
+
+---
+
+### Men's Mikvah – Philadelphia Lubavitcher Center
+
+📍 7622 Castor Avenue, Philadelphia, PA 19111  
+📞 (215) 725-2030
 ---
 
 ## 🎓 Schools {#schools}
@@ -149,13 +160,33 @@ Visit: [https://keystone-k.org](https://keystone-k.org)
 
 ## 🍽️ Dining {#dining}
 
-Popular kosher dining spots accessible to Rhawnhurst residents include:
-- **Holy Schnitzel**
-- **Mama's Vegetarian** *(Center City)*
-- **Espresso Cafe**
-- **House of Kosher Deli Counter**
+Local eateries immediately in or adjacent to our community. Many more are close by in the region.  
+For a wider list of kosher establishments, visit [Keystone-K Kosher Directory](https://keystone-k.org/establishments/).
+Always verify hashgacha before visiting any establishment.
 
-Always verify hashgacha before visiting.
+---
+
+### Espresso Café  
+*Dairy restaurant under Keystone-K hashgacha*  
+[espresso-kosher.com](https://www.espresso-kosher.com/)  
+📍 [7814 Castor Ave, Philadelphia, PA 19152](https://www.google.com/maps?q=7814+Castor+Ave,+Philadelphia,+PA+19152)  
+📞 215-745-0130  
+
+---
+
+### Judah Mediterranean Grill  
+*Meat restaurant under Keystone-K hashgacha*  
+[judahgrill.com](https://judahgrill.com/)  
+📍 [9311 Krewstown Rd, Philadelphia, PA 19115](https://www.google.com/maps?q=9311+Krewstown+Rd,+Philadelphia,+PA+19115)  
+📞 215-613-6110  
+
+---
+
+### Rita’s Water Ice – Grant Ave  
+*Seasonal treats*  
+📍 [1709 Grant Ave, Philadelphia, PA 19111](https://www.google.com/maps?q=1709+Grant+Ave,+Philadelphia,+PA+19111)  
+📞 215-673-9490 
+
 
 ---
 
