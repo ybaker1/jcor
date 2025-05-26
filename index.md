@@ -39,6 +39,22 @@ Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant, welcoming, a
 
 ---
 
+## 🎥 JCOR Video {#jcor-video}
+
+Watch our introductory video about JCOR and Jewish life in Rhawnhurst:  
+[JCOR Video](https://vimeo.com/210610668)
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://player.vimeo.com/video/210610668" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" 
+          allow="autoplay; fullscreen; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+---
+
 ## 📧 Email Group {#email-group}
 
 Stay informed with the JCOR Email Group — a moderated announcements list serving the Jewish Community of Northeast Philadelphia: [https://groups.io/g/JCOR-NE-Philadelphia](https://groups.io/g/JCOR-NE-Philadelphia). Founded to promote *achdus* and foster growth in Rhawnhurst, the group shares local shiurim, events, job and housing opportunities, and community updates. All posts are screened to ensure they are relevant, local, and free of spam or off-topic content—just the essential info you need.
@@ -95,7 +111,7 @@ Stay informed with the JCOR Email Group — a moderated announcements list servi
 
 ---
 
-
+---
 
 ## 🧯 Eruv Info {#eruv-info}
 
