@@ -17,7 +17,7 @@ Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant, welcoming, a
 
 **Learning & Torah-Centered Living**  
 - High standards of Torah learning are a cornerstone of our community.  
-- Numerous shiurim and learning opportunities in local [shuls](#shuls).  
+- Numerous shiurim and learning opportunities in local [shuls](#shuls-directory).  
 - A vibrant [Kollel](#kollel) that serves as a hub for spiritual growth across all backgrounds.  
 
 **Location, Location, Location**  
@@ -31,11 +31,11 @@ Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant, welcoming, a
 
 **Inclusive Orthodox Diversity**  
 - Diversity within Orthodoxy: everyone is accepted and respected.  
-- You’ll find your place in a [shul](#shuls) and still feel welcome in all.  
+- You’ll find your place in a [shul](#shuls-directory) and still feel welcome in all.  
 
 **Family & Education**  
 - Several [schools](#schools) serve the educational needs of our children.  
-- [Kosher food](#kosher-information) and [dining](#dining) options are adequate and accessible.  
+- [Kosher food](#kosher-info) and [dining](#dining) options are adequate and accessible.  
 
 ---
 
@@ -147,7 +147,7 @@ Watch our introductory video about JCOR and Jewish life in Rhawnhurst:
 
 ---
 
-## 📖 Kolell {#kolell}
+## 📖 Kollel {#kollel}
 
 
 The Northeast Community Kollel plays a vital role in our spiritual life, offering accessible Torah learning opportunities to community members of all backgrounds. Many benefit from shiurim on Inyanei DeYoma and chavrusa learning with the Rosh Kollel and Kollel Avreichim.
