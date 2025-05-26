@@ -4,32 +4,38 @@ title: Welcome to JCOR
 subtitle: Jewish Community of Rhawnhurst
 ---
 
-Welcome to the Jewish Community of Rhawnhurst (JCOR)!
+## About Us {#about}
 
-We are a vibrant Orthodox Jewish community in Northeast Philadelphia. Explore the sections below to learn more about our shuls, eruv, local resources, and how to stay connected.
+Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant, welcoming, and diverse Orthodox community in Northeast Philadelphia. Whether you're visiting, considering relocation, or just curious, here’s what makes us unique:
 
----
+### What We're Known For
 
-## 🔗 Navigation
+**Affordability & Quality of Life**  
+- Lower cost of living and housing compared to other major Jewish centers.  
+- Yeshiva tuition made more affordable through Pennsylvania’s EITC program
+- Stores with parking lots and ample residential parking – minimal traffic.  
 
-- [Welcome](#welcome)
-- [Email Group](#email-group)
-- [Shuls Directory](#shuls-directory)
-- [Eruv Info](#eruv-info)
-- [JCOR Video](#jcor-video)
-- [Kolell](#kolell)
-- [Chesed Resources](#chesed-resources)
-- [Mikvaot](#mikvaot)
-- [Schools](#schools)
-- [Kosher Info](#kosher-info)
-- [Dining](#dining)
-- [Food Shopping](#food-shopping)
+**Learning & Torah-Centered Living**  
+- High standards of Torah learning are a cornerstone of our community.  
+- Numerous shiurim and learning opportunities in local [shuls](#shuls).  
+- A vibrant [Kollel](#kollel) that serves as a hub for spiritual growth across all backgrounds.  
 
----
+**Location, Location, Location**  
+- Easy access to Lakewood, Baltimore, and New York City.
+- Enjoy all the career and infrastructure benefits of a major East Coast city.  
 
-## 🏠 Welcome
+**Community Values**  
+- A quiet, residential neighborhood with no nightlife.  
+- Not marked by materialism; we value modesty and simplicity.  
+- Strong out-of-town spirit – everyone counts.
 
-JCOR (The Jewish Community of Rhawnhurst) fosters connection, community, and spiritual growth in Northeast Philadelphia’s Orthodox Jewish community.
+**Inclusive Orthodox Diversity**  
+- Diversity within Orthodoxy: everyone is accepted and respected.  
+- You’ll find your place in a [shul](#shuls) and still feel welcome in all.  
+
+**Family & Education**  
+- Several [schools](#schools) serve the educational needs of our children.  
+- [Kosher food](#kosher-information) and [dining](#dining) options are adequate and accessible.  
 
 ---
 
@@ -89,9 +95,23 @@ Stay informed with the JCOR Email Group — a moderated announcements list servi
 
 ---
 
+
+
 ## 🧯 Eruv Info {#eruv-info}
 
-JCOR supports the Rhawnhurst eruv. Please check with local rabbinic authorities for current status updates.
+The Rhawnhurst Eruv encompasses a large residential section of Northeast Philadelphia and is **diligently maintained** by local rabbinic authorities and community volunteers. It enables enhanced Shabbat observance for families and individuals alike.
+
+**Eruv status is shared weekly via the [JCOR Email Group](https://groups.io/g/JCOR-NE-Philadelphia).** Please check the group each week before Shabbat.
+
+### 📍 Eruv Map
+
+<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+  <iframe src="https://www.google.com/maps/d/embed?mid=1Brt1NrCZQHS5PxmnZWClVy6g5xY&hl=en&ehbc=2E312F" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -294,8 +314,6 @@ Always verify hashgacha before visiting any establishment.
 ---
 
 ## 🛒 Food Shopping {#food-shopping}
-
-Members of our community shop for food at the following locations:
 
 Members of our community shop for food at the following locations:
 
