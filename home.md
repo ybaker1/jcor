@@ -293,6 +293,7 @@ Support or volunteer opportunities within our community:
 8201 Castor Ave, Philadelphia, PA 19152
 📞 215-240-1267
 🌐 [yamogp.org/](https://yamogp.org/)
+
 ---
 
 ## 🥬 Kosher Info {#kosher-info}
